@@ -1,0 +1,28 @@
+{
+  "cards": [
+    {
+      "title": "Lakshadweep ",
+      "about": "Lakshadweep is a tropical archipelago of 36 atolls and coral reefs in the Laccadive Sea, off the coast of Kerala, India.",
+      "itinerary": "Lakshadweep ",
+      "date": "2024-09-24",
+      "image": "https://images.deccanherald.com/deccanherald/2024-01/92e5e4f0-55aa-4ac7-8693-2250d6d3b7d9/file7tmla2pokgmpiy051yi.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
+      "id": 3
+    },
+    {
+      "title": "Varanasi",
+      "about": "Varanasi is a city in the northern Indian state of Uttar Pradesh dating to the 11th century B.C. Regarded as the spiritual capital of India,",
+      "itinerary": "Kashi,  Assi Ghat & Dashashwamedh Ghat",
+      "date": "2025-07-15",
+      "image": "https://media.tacdn.com/media/attractions-splice-spp-674x446/06/6f/12/a6.jpg",
+      "id": 5
+    },
+    {
+      "title": "Bali",
+      "about": "Bali is a true traveler’s paradise where you’ll never run out of things to see and do. The only challenge is figuring out which attractions and activities to make time for! To help you see the very best of the island, here is the ultimate five-day Bali itinerary that will take you through Nusa Dua, Uluwatu, Seminyak, Canggu, and Ubud. Find out the top spots at each of these locales that you should add to your trip plan. Explore stunning beaches and beautiful temples in between shopping trips and stops at cultural landmarks.",
+      "itinerary": "Uluwatu, Uluwatu Temple, Seminyak",
+      "date": "2025-04-10",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/675172642/pura-ulun-danu-bratan-temple-in-Bali-/960x0.jpg?format=jpg&width=960",
+      "id": 14
+    }
+  ]
+}
